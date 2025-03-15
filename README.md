@@ -1,5 +1,5 @@
-[![Godoc Reference](https://godoc.org/github.com/minio/highwayhash?status.svg)](https://godoc.org/github.com/minio/highwayhash)
-[![Build Status](https://travis-ci.org/minio/highwayhash.svg?branch=master)](https://travis-ci.org/minio/highwayhash)
+[![Godoc Reference](https://godoc.org/github.com/swift-s3/highwayhash?status.svg)](https://godoc.org/github.com/swift-s3/highwayhash)
+[![Build Status](https://travis-ci.org/swift-s3/highwayhash.svg?branch=master)](https://travis-ci.org/swift-s3/highwayhash)
 
 ## HighwayHash
 
@@ -21,7 +21,7 @@ All three output sizes of HighwayHash have been declared [stable](https://github
 
 ### Installation
 
-Install: `go get -u github.com/minio/highwayhash`
+Install: `go get -u github.com/swift-s3/highwayhash`
 
 ### Intel Performance
 
